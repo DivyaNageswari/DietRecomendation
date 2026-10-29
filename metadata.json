@@ -1,0 +1,6 @@
+{
+  "name": "Diet Recommendation System",
+  "description": "Intelligent diet recommendation and multi-criteria meal planning engine based on nutritional scoring, MLP goal prediction, allergen filtering, and meal-slot allocation.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
